@@ -1,4 +1,4 @@
-# **🚀 Nome do Projeto**
+# **🚀 MentorIA**
 
 ### **🔗 Link do Agente GPT:**  
 > _[Insira o link do GPT criado aqui.]_
@@ -6,44 +6,49 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Nome do integrante 1](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
+- [Filipe](https://github.com/filipesn)
+- [Leonardo](https://github.com/xxlamedaxx)
+- [Mirela](https://github.com/Mirelasbianchi)
+- [Sophia](https://github.com/sophiahochman)
+- [Teodoro](https://github.com/TeodoroNeira)
+- [Victor](https://github.com/CryptoVictor)
 
 ---
 
 ## **📄 Descrição do Projeto**  
-> _[Descreva aqui o propósito, objetivos e funcionalidades do projeto. Inclua detalhes importantes e o impacto que ele busca causar.]_
+> _A IA busca cumprir o papel de mentor para o usuário, o orientando no desenvolvimento de suas habilidades no cenário dos negócios. Ela foca em apresentar soluções para os problemas levantados pelo utilizador, utilizando de uma base intelectual voltada para o ambiente empreendedor.  Dessa forma, ela é capaz de resolver dilemas de maneira rápida e concisa, evitando a necessidade de coachs e cursos de autoajuda._
 
 ---
 
 ## **🤖 Instruções do GPT** 
-> _[Descreva aqui algumas instruções básicas de uso do agente.]_
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
+A IA é programada para responder questões relacionadas sobre como se tornar um líder melhor, com foco no ambiente corporativo.
+
+> Ela aceita a entrada de textos, com foco em responder perguntas
+
+Durante a sua utilização, é importante levar em consideração os seguintes pontos:  
+
+1. ✅ Esclareça suas perguntas, instruindo a IA de maneira objetiva;  
+2. 🔍 Mantenha as perguntas de acordo com o tópico! A IA não foi treinada para outros assuntos; 
+  
+Como a IA gera as respostas?
+
+> A Inteligência Aritficial foi treinada com diversos livros, artigos e notícias relacionadas à liderança, tecnologia, empreendedorismo e ética. É por meio das informações presentes nestas obras que ela propõe as soluções.
 
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Descrição breve do tema  
-- 🌐 **Tema 2:** Descrição breve do tema  
-- 🔒 **Tema 3:** Descrição breve do tema  
-- 📊 **Tema 4:** Descrição breve do tema  
+
+- 🛠️ **Habilidades Socioemocionais:** O quê um líder precisa ter? 
+- 🌐 **Tomadas de decisão corporativas:** Como tomar decisões relacionadas ao âmbito dos negócios?  
+- 🛠️ **Resolução de conflitos:** Como lidar com problemas?  
+  
 
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
+> _[Referências utilizadas para o treinamento](https://drive.google.com/drive/folders/1SfVBAkK2bzJMRTGrURx9wXrOrJ7jfgQy?usp=sharing)_
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 _[Prompts utilizados](https://github.com/TeodoroNeira/HackatonOnboarding2025Grupo3Roxo/blob/main/prompts.txt)_
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 _[Nome ou link da base de conhecimento 1]_  
@@ -54,8 +59,3 @@
 - 🔗 [Link 1](#)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
-
-
-Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
-
-
