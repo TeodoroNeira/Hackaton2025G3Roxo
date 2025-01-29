@@ -57,6 +57,6 @@ Como a IA gera as respostas?
 - 📕 _[Nome ou link da base de conhecimento 3]_  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
-- 🔗 [Link 2](#)  
-- 🔗 [Link 3](#)  
+- 🔗 [Notion](#)  
+- 🔗 [Canva](#)  
+ 
