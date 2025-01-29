@@ -23,7 +23,7 @@
 ## **🤖 Instruções do GPT** 
 A IA é programada para responder questões relacionadas sobre como se tornar um líder melhor, com foco no ambiente corporativo.
 
-> Ela aceita a entrada de textos, com foco em responder perguntas
+> Ela aceita a entrada de textos, com foco em responder perguntas.
 
 Durante a sua utilização, é importante levar em consideração os seguintes pontos:  
 
