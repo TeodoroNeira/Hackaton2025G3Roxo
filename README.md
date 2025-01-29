@@ -32,7 +32,8 @@ Durante a sua utilização, é importante levar em consideração os seguintes p
   
 Como a IA gera as respostas?
 
-> A Inteligência Aritficial foi treinada com diversos livros, artigos e notícias relacionadas à liderança, tecnologia, empreendedorismo e ética. É por meio das informações presentes nestas obras que ela propõe as soluções.
+> A Inteligência Aritficial foi treinada com diversos livros, artigos e notícias relacionadas à liderança, tecnologia, empreendedorismo e ética. É por meio das informações presentes nestas obras que ela propõe as soluções. Na seleção da documentação, focamos na inclusividade, selecionando conteúdos de autores homens e mulheres. Além disso, a IA também foi treinada para apresentar respostas concisas, como uma opção para menor custo energético.
+
 
 ---
 
