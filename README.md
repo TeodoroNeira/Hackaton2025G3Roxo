@@ -1,7 +1,7 @@
 # **🚀 MentorIA**
 
 ### **🔗 Link do Agente GPT:**  
-> _[MentorIA](https://chatgpt.com/g/g-67996e23b27481919c52b99240dfe079-mentoria)]_
+> _[MentorIA](https://chatgpt.com/g/g-67996e23b27481919c52b99240dfe079-mentoria)_
 
 ---
 
