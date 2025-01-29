@@ -52,9 +52,9 @@ Como a IA gera as respostas?
 - 📗 _[Prompts utilizados](https://github.com/TeodoroNeira/HackatonOnboarding2025Grupo3Roxo/blob/main/prompts.txt)_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 📗 _John C. Maxwel_
+- 📙 _Lydia-Fenet_  
+- 📕 _Robert Kiyosaki_  
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Notion](#)  
