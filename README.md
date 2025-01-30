@@ -54,7 +54,7 @@ Como a IA gera as respostas?
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Notion](https://marred-cobra-2a0.notion.site/MentorIA-189e319ffaaf80b8b2e0f52c8330f3ee)  
-- 🔗 [Apresentação](https://drive.google.com/file/d/1EX9S2JRFwAfDOYz7e_65bFQ81R-cdjZ2/view?usp=drive_link#)  
+- 🔗 [Apresentação](https://drive.google.com/file/d/1Ebc-fMY3K_6reHX4NV3M6vMB3PTCj3YT/view?usp=sharing)  
  
 ## **👥 Integrantes do Grupo**  
 - [Filipe](https://github.com/filipesn)
