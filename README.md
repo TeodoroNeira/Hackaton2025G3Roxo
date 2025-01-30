@@ -53,7 +53,7 @@ Como a IA gera as respostas?
 - 📕 _Robert Kiyosaki_  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Notion](#)  
+- 🔗 [Notion](https://marred-cobra-2a0.notion.site/MentorIA-189e319ffaaf80b8b2e0f52c8330f3ee)  
 - 🔗 [Canva](#)  
  
 ## **👥 Integrantes do Grupo**  
