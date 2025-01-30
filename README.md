@@ -2,10 +2,10 @@
   <img src="https://github.com/TeodoroNeira/Hackaton2025G3Roxo/blob/main/logo.png"></img>
 </div>
 
-# **MentorIA**
+# **mentorIA**
 
 ### **🔗 Link**  
-> _[MentorIA](https://chatgpt.com/g/g-67996e23b27481919c52b99240dfe079-mentoria)_
+> _[mentorIA](https://chatgpt.com/g/g-67996e23b27481919c52b99240dfe079-mentoria)_
 <br/>
 <div align="center">
   <img height="180em" src="https://github.com/TeodoroNeira/Hackaton2025G3Roxo/blob/main/QR.png"></img>
@@ -54,7 +54,7 @@ Como a IA gera as respostas?
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Notion](https://marred-cobra-2a0.notion.site/MentorIA-189e319ffaaf80b8b2e0f52c8330f3ee)  
-- 🔗 [Canva](#)  
+- 🔗 [Apresentação](https://drive.google.com/file/d/1EX9S2JRFwAfDOYz7e_65bFQ81R-cdjZ2/view?usp=drive_link#)  
  
 ## **👥 Integrantes do Grupo**  
 - [Filipe](https://github.com/filipesn)
