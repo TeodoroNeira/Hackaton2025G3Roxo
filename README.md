@@ -1,19 +1,15 @@
-# **🚀 MentorIA**
+<div align="center">
+  <img src="https://github.com/TeodoroNeira/Hackaton2025G3Roxo/blob/main/logo.png"></img>
+</div>
 
-### **🔗 Link do Agente GPT:**  
+# **MentorIA**
+
+### **🔗 Link**  
 > _[MentorIA](https://chatgpt.com/g/g-67996e23b27481919c52b99240dfe079-mentoria)_
-
----
-
-## **👥 Integrantes do Grupo**  
-- [Filipe](https://github.com/filipesn)
-- [Leonardo](https://github.com/xxlamedaxx)
-- [Mirela](https://github.com/Mirelasbianchi)
-- [Sophia](https://github.com/sophiahochman)
-- [Teodoro](https://github.com/TeodoroNeira)
-- [Victor](https://github.com/CryptoVictor)
-
----
+<br/>
+<div align="center">
+  <img height="180em" src="https://github.com/TeodoroNeira/Hackaton2025G3Roxo/blob/main/QR.png"></img>
+</div>
 
 ## **📄 Descrição do Projeto**  
 > _A IA busca cumprir o papel de mentor para o usuário, o orientando no desenvolvimento de suas habilidades no cenário dos negócios. Ela foca em apresentar soluções para os problemas levantados pelo utilizador, utilizando de uma base intelectual voltada para o ambiente empreendedor.  Dessa forma, ela é capaz de resolver dilemas de maneira rápida e concisa, evitando a necessidade de coachs e cursos de autoajuda._
@@ -60,3 +56,12 @@ Como a IA gera as respostas?
 - 🔗 [Notion](#)  
 - 🔗 [Canva](#)  
  
+## **👥 Integrantes do Grupo**  
+- [Filipe](https://github.com/filipesn)
+- [Leonardo](https://github.com/xxlamedaxx)
+- [Mirela](https://github.com/Mirelasbianchi)
+- [Sophia](https://github.com/sophiahochman)
+- [Teodoro](https://github.com/TeodoroNeira)
+- [Victor](https://github.com/CryptoVictor)
+
+---
